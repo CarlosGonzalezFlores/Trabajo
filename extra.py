@@ -1,0 +1,2 @@
+class adios:
+    pass
